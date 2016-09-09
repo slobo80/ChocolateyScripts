@@ -1,4 +1,4 @@
 Write-Output "Updating Chocolaty..."
-choco update
+choco upgrade chocolatey -y
 Write-Output "Updating all packages..."
-choco update all
+choco upgrade all -y

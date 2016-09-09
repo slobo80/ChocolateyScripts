@@ -1,1 +1,1 @@
-choco install c:\packages.config
+choco install packages.config
